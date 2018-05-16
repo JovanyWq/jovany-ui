@@ -1,0 +1,29 @@
+{
+  "name": "jovany-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JovanyWq/jovany-ui.git"
+  },
+  "keywords": [
+    "vue.js",
+    "ui",
+    "framework",
+    "jovany",
+    "h5"
+  ],
+  "author": "Jovany WQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JovanyWq/jovany-ui/issues"
+  },
+  "homepage": "https://github.com/JovanyWq/jovany-ui#readme"
+}
